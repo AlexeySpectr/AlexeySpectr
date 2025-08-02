@@ -15,7 +15,7 @@
 * Python
 * C++
 * Haskell
-#### * DevOps / Инструменты:
+#### + DevOps / Инструменты:
 * Git / GitHub
 * Docker
 * Docker Compose
