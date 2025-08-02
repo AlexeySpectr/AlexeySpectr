@@ -2,4 +2,4 @@
 ### Меня зовут `Алексей`, я — начинающий `DevOps-инженер`.  Добро пожаловать на мой GitHub!
 # :trophy: О проекте
 #### Это мой личный репозиторий, в котором я делюсь своими шагами на пути к профессиональному росту в области DevOps. Здесь вы найдете мои учебные проекты, практические задачи, эксперименты и многое другое.
-![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
