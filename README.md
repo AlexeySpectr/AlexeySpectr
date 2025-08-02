@@ -9,20 +9,20 @@
   * CSS / CSS3
   * WordPress 6.7.1
 * #### Backend & Базы данных:
-      * PHP 8.1
-      * MySQL 8.0
-      * PostgreSQL 16.6
-      * Python
-      * C++
-      * Haskell
+  * PHP 8.1
+  * MySQL 8.0
+  * PostgreSQL 16.6
+  * Python
+  * C++
+   * Haskell
 * #### DevOps / Инструменты:
-      * Git / GitHub
-      * Docker
-      * Docker Compose
-      * Linux (Ubuntu 24.04.1 / Debian / Смоленск)
+   * Git / GitHub
+   * Docker
+   * Docker Compose
+   * Linux (Ubuntu 24.04.1 / Debian / Смоленск)
 * #### Дополнительно:
-      * Adobe Photoshop
-      * 3D Max
+   * Adobe Photoshop
+   * 3D Max
 ## :heavy_check_mark:Уже освоено:
 #### В процессе изучения / планирую освоить:
 * Docker & Docker Compose
