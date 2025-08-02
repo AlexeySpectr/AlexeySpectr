@@ -6,3 +6,11 @@
 # :book: Текущий стек
 #### На данный момент мой стек технологий еще небольшой, но я постоянно его расширяю. В процессе обучения я планирую осваивать:
 * Docker & Docker Compose
+* Kubernetes
+* CI/CD (GitHub Actions, GitLab CI)
+* Linux & Bash
+* Terraform
+* Ansible
+* Мониторинг (Prometheus, Grafana)
+* Облачные технологии (AWS / GCP)
+* Python
