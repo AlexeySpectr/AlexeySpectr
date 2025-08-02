@@ -4,18 +4,18 @@
 #### Это мой личный репозиторий, в котором я делюсь своими шагами на пути к профессиональному росту в области DevOps. Здесь вы найдете мои учебные проекты, практические задачи, эксперименты и многое другое.
 
 # :book: Стек
-1.#### Frontend & Web:
+#### Frontend & Web:
 * HTML / HTML5
 * CSS / CSS3
 * WordPress 6.7.1
-2. #### Backend & Базы данных:
+#### Backend & Базы данных:
 * PHP 8.1
 * MySQL 8.0
 * PostgreSQL 16.6
 * Python
 * C++
 * Haskell
-  DevOps / Инструменты:
+  1.DevOps / Инструменты:
 * Git / GitHub
 * Docker
 * Docker Compose
