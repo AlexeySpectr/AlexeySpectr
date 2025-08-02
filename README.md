@@ -5,7 +5,7 @@
 
 # :book: Стек
 * #### Frontend & Web:
-      * HTML / HTML5
+      *HTML / HTML5
       * CSS / CSS3
       * WordPress 6.7.1
 * #### Backend & Базы данных:
