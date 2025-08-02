@@ -1,5 +1,5 @@
 # 👋**Привет, друзья!**
-
+### Меня зовут **Алексей**, я — начинающий **DevOps-инженер**. Добро пожаловать на мой GitHub!
 <!--
 **AlexeySpectr/AlexeySpectr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
