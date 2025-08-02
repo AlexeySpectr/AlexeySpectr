@@ -5,7 +5,7 @@
 
 # :book: Стек
 
-## :white_check_mark:Уже освоено:
+## :heavy_check_mark:Уже освоено:
 #### В процессе изучения / планирую освоить:
 * Docker & Docker Compose
 * Kubernetes
