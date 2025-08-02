@@ -5,4 +5,4 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 # :book: Текущий стек
 #### На данный момент мой стек технологий еще небольшой, но я постоянно его расширяю. В процессе обучения я планирую осваивать:
----Docker & Docker Compose---
+-Docker & Docker Compose-
