@@ -53,6 +53,8 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 <img src="https://img.shields.io/badge/3D%20Max-1572B6?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
+
+
 ---
 
 ## 📂 Проекты
