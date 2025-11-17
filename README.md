@@ -34,8 +34,6 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <h3>🗄 Базы данных</h3>
@@ -58,17 +56,7 @@
 
 ---
 
-# 🏷 Бейджи
 
-<p>
-<img src="https://img.shields.io/badge/SEO-Analytics-4CAF50?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Admin-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-k8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-ML-00A3E0?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-DS-FE6D73?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
 
 ---
 
