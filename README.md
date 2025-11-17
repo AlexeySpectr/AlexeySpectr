@@ -53,6 +53,14 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 <img src="https://img.shields.io/badge/3D%20Max-1572B6?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
+---
+## 📂 Проекты
+
+- [HTTP-запросы на Python](https://github.com/AlexeySpectr/http-request) — тестирование HTTP-запросов и работа с API.
+- [Задачи с LeetCode на Python](https://github.com/AlexeySpectr/Python-tasks-from-leetcode) — решения задач и разбор декораторов.
+- [Pandas и NumPy](https://github.com/AlexeySpectr/python-pandas-numpy) — анализ данных фильмов, базовые функции и команды библиотек.
+- [Практика Kubernetes](https://github.com/AlexeySpectr/practis-k8s) — эксперименты с Kubernetes и DevOps-инфраструктурой.
+
 
 ---
 
