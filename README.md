@@ -58,14 +58,10 @@
 
 ## 📊 Моя активность на LeetCode
 
-![Stats](https://leetcode-status.vercel.app/api/card/AlexeySpectr?theme=gradient&gradient_start=%236366F1&gradient_end=%23A855F7)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AlexeySpectr?theme=dark)
 
 
-- Решено задач: **<число>**  
-- Прогресс по сложности:
-  - Easy: `<кол-во>`
-  - Medium: `<кол-во>`
-  - Hard: `<кол-во>`
+
 
 ---
 
