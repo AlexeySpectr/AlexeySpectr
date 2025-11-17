@@ -1,4 +1,4 @@
-<!-- Заголовок -->
+![Tech Stack](https://raw.githubusercontent.com/username/repo/main/stack.png)
 <h1 align="center">👋 Привет! Я — Алексей Кривоносов</h1>
 <h3 align="center">SEO-специалист | Системный администратор | Web & Python Developer | Data Science Enthusiast</h3>
 
