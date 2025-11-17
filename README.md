@@ -58,7 +58,8 @@
 
 ## 📊 Моя активность на LeetCode
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/AlexeySpectr?theme=dark)
+![Stats](https://leetcode-status.vercel.app/api/card/AlexeySpectr?theme=gradient&gradient_start=%236366F1&gradient_end=%23A855F7)
+
 
 - Решено задач: **<число>**  
 - Прогресс по сложности:
