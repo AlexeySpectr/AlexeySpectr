@@ -1,14 +1,14 @@
 <h1 align="center">👋 Привет! Я — Алексей Кривоносов</h1>
-<h3 align="center">SEO-специалист | Системный администратор | Web & Python Developer | Data Science</h3>
+<h3 align="center">SEO-специалист | Системный администратор | Data Science</h3>
 
 <p align="center">
 Люблю чистые и быстрые системы, администрирование Linux, SEO-оптимизацию, Python-разработку и анализ данных.
 <br>
-Интересуюсь Data Science, Machine Learning, DevOps и современным вебом.
+Интересуюсь Data Science, Machine Learning, DevOps.
 </p>
 
 <p align="center">
-⚡ Увлекаюсь автоматизацией, ML-моделями, исследованием данных и backend-инфраструктурой.  
+⚡ Увлекаюсь автоматизацией, ML-моделями, исследованием данных.  
 <br>🎮 В свободное время — игры,  изучение технологий.
 </p>
 
