@@ -67,9 +67,9 @@
 
 ---
 
-## 📊 Моя активность на LeetCode
+## ⚔️ Моя активность на Codewars
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AlexeySpectr?theme=dark)
+[![Codewars](https://www.codewars.com/users/AlexeySpectr/badges/large)](https://www.codewars.com/users/AlexeySpectr)
 
 
 
